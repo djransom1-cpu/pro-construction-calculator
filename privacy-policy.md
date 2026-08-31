@@ -1,7 +1,7 @@
 Privacy Policy for Pro Construction Calculator
 Last Updated: July 18, 2026
 1. Introduction
-Pro Construction Calculator ("we," "our," or "the App") is committed to protecting your privacy. This Privacy Policy explains our practices regarding the collection, use, and disclosure of information through the App.
+Pro Construction Calculator ("Construction App Builders LLC") is committed to protecting your privacy. This Privacy Policy explains our practices regarding the collection, use, and disclosure of information through the App.
 2. Information Collection and Use
 Personal Information: We do not collect any personally identifiable information (PII) such as your name, address, or phone number. App Data: Any data you enter into the app, including project names, construction measurements, and S-Pen sketches, is stored locally on your device. We do not have access to this data, and it is not uploaded to our servers.
 3. In-App Purchases and Billing
